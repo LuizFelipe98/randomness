@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_listar_gastos_mes"
+        android:title="Listar gastos do mês atual" />
+
+    <item
+        android:id="@+id/action_listar_periodos"
+        android:title="Listar períodos encerrados"/>
+
+    <item
+        android:id="@+id/action_encerrar_periodo"
+        android:title="Realizar fechamento do mês" />
+</menu>

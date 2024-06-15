@@ -1,0 +1,6 @@
+<!-- res/menu/menu_gasto_mes.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_voltar_inicio"
+        android:title="Voltar à tela inicial"/>
+</menu>
